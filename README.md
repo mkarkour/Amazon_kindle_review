@@ -1,12 +1,6 @@
 # Amazon Kindle Data Analysis Project
 
-In this project, participants will engage with Amazon Kindle data, comprising user reviews pertaining to their book acquisitions, coupled with associated book metadata. The undertaking encompasses the practical application of analysis concepts, encompassing the utilization of MongoDB (Module 1), fundamental machine learning principles (Module 2), and the development of a product recommendation system (Module 3)
-
-## Project Format
-This project is structured as a guided Jupyter notebook. It includes both coding tasks and questions that require written responses in English within Markdown cells. These questions are designed to assess understanding of theoretical concepts, critical thinking skills, and ability to provide clear explanations into the data analysis field.
-
-## Interdisciplinary Data Science Project
-This project is an interdisciplinary endeavor that combines several domains, including data management, machine learning, and data analysis. Specifically, it falls under the category of "Data Science" or "Data Analysis" projects. Here are some reasons why this project can be classified in this category:
+In this project, participants will engage with Amazon Kindle data, comprising user reviews pertaining to their book acquisitions, coupled with associated book metadata. The undertaking encompasses the practical application of analysis concepts, encompassing the utilization of MongoDB (Module 1), fundamental machine learning principles (Module 2), and the development of a product recommendation system (Module 3). This project is an interdisciplinary endeavor that combines several domains, including data management, machine learning, and data analysis. Specifically, it falls under the category of "Data Science" or "Data Analysis" projects. Here are some reasons why this project can be classified in this category:
 
 ## Data Analysis
 The project involves the analysis of data related to book reviews and book metadata on Amazon Kindle. Students will need to explore this data, extract relevant information, and derive valuable insights.
@@ -22,4 +16,11 @@ Students will be tasked with evaluating the performance of their recommendation 
 
 ## Writing and Communication
 The project also includes questions where students must respond in English using Markdown cells. This requires the ability to communicate clearly and effectively, which is an essential skill in Data Science.
+
+## Project Format
+This project is structured as a guided Jupyter notebook. It includes both coding tasks and questions that require written responses in English within Markdown cells. These questions are designed to assess understanding of theoretical concepts, critical thinking skills, and ability to provide clear explanations into the data analysis field.
+
+
+
+
 
